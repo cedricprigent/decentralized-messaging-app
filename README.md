@@ -31,7 +31,7 @@ Lancement de l'application grâce au script start_node.sh
 ./start_node.sh
 ```
 
-Ou lancement de l'application de la façon suivante
+Lancement de l'application en exécutant les commandes suivantes dans 2 terminaux
 ```sh
 flask run -h 'adresse réseau du noeud' --port 8000
 python run_app.py

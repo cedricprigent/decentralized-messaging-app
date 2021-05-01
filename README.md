@@ -6,7 +6,7 @@
 3. [Installation](#installation)
 
 ## General Info
-Application de messagerie décentralisée sous la forme d'application web
+Application blockchain de messagerie décentralisée
 
 ## Technologies
 

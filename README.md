@@ -7,7 +7,10 @@
 
 ## General Info
 
-Application blockchain de messagerie décentralisée
+Application blockchain de messagerie décentralisée</br>
+Il s'agit d'une version modifiée d'une application déjà existante.</br>
+Lien vers l'application originale:
+https://github.com/satwikkansal/python_blockchain_app
 
 ## Requirements
 

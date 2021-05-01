@@ -23,16 +23,16 @@ $ pip install hashlib
 
 Avant de lancer l'application
 ```sh
-export FLASK_APP=node.py
+$ export FLASK_APP=node.py
 ```
 
 Lancement de l'application grâce au script start_node.sh
 ```sh
-./start_node.sh
+$ ./start_node.sh
 ```
 
 Lancement de l'application en exécutant les commandes suivantes dans 2 terminaux
 ```sh
-flask run -h 'adresse réseau du noeud' --port 8000
-python run_app.py
+$ flask run -h 'adresse réseau du noeud' --port 8000
+$ python run_app.py
 ```
